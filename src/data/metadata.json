@@ -1,7 +1,7 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Булат Гомбоцыренов",
+  "url": "https://nohardco.de/",
+  "description": "Фронтенд разработчик",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
